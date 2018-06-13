@@ -1,0 +1,17 @@
+common git vocabulary
+----------------------------
+repo
+current working directory
+staging
+commit
+
+git commit -m "your message"
+git status
+git checkout -- .
+git add filename
+
+git clone <url>
+git remote set-url origin <url where you want to push the files>
+git remote -v
+
+git push orgin master              asks..>username password 
